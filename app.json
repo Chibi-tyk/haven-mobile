@@ -1,0 +1,1 @@
+{"expo":{"name":"Haven","slug":"haven-property","scheme":"haven","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","newArchEnabled":true,"experiments":{"typedRoutes":true},"plugins":["expo-router"],"ios":{"supportsTablet":true},"android":{"edgeToEdgeEnabled":true,"predictiveBackGestureEnabled":false}}}
